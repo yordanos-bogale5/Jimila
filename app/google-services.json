@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370119251450",
+    "project_id": "jimila-4cad2",
+    "storage_bucket": "jimila-4cad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370119251450:android:816cd61a14b7b83a224043",
+        "android_client_info": {
+          "package_name": "com.seha.jimila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUgdp15iY1mDQpyIa9UF6NXJ-5WwtjMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
